@@ -1,0 +1,65 @@
+* {
+	margin: 0;
+	padding: 0;
+	
+}
+
+.page-size {
+	width: 70%;
+	display: flex;
+	flex-wrap: wrap;
+	margin: auto;
+}
+
+.pic {
+	display: flex;
+	width: 100%;
+	background-size: cover;
+}
+
+.promo {
+	width: 37em;
+	display: flex;
+	height: 27em;
+	color: white;
+}
+
+article {
+	width: 18em;
+	display: flex;
+	flex-direction: column;
+	border: 0.5em solid white;
+	justify-content: space-between;
+	height: 27em;
+
+}
+
+p {
+	font-family: 'Lato', sans-serif;
+	font-weight: 100;
+	color: gray;
+}
+
+h1 {
+	font-family: 'Lato', sans-serif;
+font-weight: 600;
+color: #0f1535;
+font-size: 1.6em;
+
+}
+
+.author {
+	max-width: 4em;
+max-height: 4em; 
+}
+
+.on-promo {
+	width: 35em;
+	z-index: 1;
+	margin-top: -10em;
+
+}
+
+.white-text {
+	color: white;
+}
