@@ -63,3 +63,7 @@ max-height: 4em;
 .white-text {
 	color: white;
 }
+
+img {
+	width: 100%;
+}
